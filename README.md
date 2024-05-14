@@ -1,1 +1,1 @@
-stopped at page 86
+stopped at page 120 | Django ORM
